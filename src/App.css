@@ -8,7 +8,7 @@
 }
 
 body {
-  background: #ff6cb19d;
+  background: #ffc1deb4;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -19,7 +19,7 @@ body {
 }
 
 h1 {
-  color: #000000;
+  color: #64194c;
   margin-bottom: 0.5rem;
   font-size: 1.75rem;
 }
